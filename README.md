@@ -13,13 +13,13 @@
 ## Especificações: 
 
 - Uma conta deve possuir:
--- id;
-numero de conta;
-agencia;
-nome do usuario;
-valor atual da conta;
-valor final;
-valor fornecido para saque ou deposito (valor a ser acrescido ou subtraído no valor final);
-tipo de serviço (saque ou depósito);
+  - id;
+  - numero de conta;
+  - agencia;
+  - nome do usuario;
+  - valor atual da conta;
+  - valor final;
+  - valor fornecido para saque ou deposito (valor a ser acrescido ou subtraído no valor final);
+  - tipo de serviço (saque ou depósito);
 - Sua aplicação deve conter pelo menos 1 tratamento de exceção, utilizando o Exception Handler
 - Para facilitar na correção crie um banco de dados chamado contabancaria.
