@@ -1,0 +1,10 @@
+INSERT INTO conta (numero_conta, saldo) VALUES ('1234-123456', 1000);
+INSERT INTO conta (numero_conta, saldo) VALUES ('1234-123457', 1000);
+INSERT INTO conta (numero_conta, saldo) VALUES ('1234-123458', 1000);
+INSERT INTO conta (numero_conta, saldo) VALUES ('1234-123459', 1000);
+INSERT INTO conta (numero_conta, saldo) VALUES ('1234-123450', 1000);
+INSERT INTO conta (numero_conta, saldo) VALUES ('1234-113456', 1000);
+INSERT INTO conta (numero_conta, saldo) VALUES ('1234-113456', 1000);
+INSERT INTO conta (numero_conta, saldo) VALUES ('1234-113456', 1000);
+INSERT INTO conta (numero_conta, saldo) VALUES ('1234-113456', 1000);
+INSERT INTO conta (numero_conta, saldo) VALUES ('1234-113456', 1000);
